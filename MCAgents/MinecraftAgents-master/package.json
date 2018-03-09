@@ -1,0 +1,19 @@
+{
+  "name": "minecraftwoodcutter",
+  "version": "1.0.0",
+  "description": "An agent that chops wood in Minecraft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Mousel",
+  "license": "TBD",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-google": "^0.7.1"
+  },
+  "dependencies": {
+    "minecraft-protocol": "^1.1.1",
+    "mineflayer": "^2.6.1"
+  }
+}

@@ -1,0 +1,4 @@
+MinecraftServer/*
+!MinecraftServer/server.properties
+!MinecraftServer/BuildTools.jar
+node_modules
